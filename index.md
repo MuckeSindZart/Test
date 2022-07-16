@@ -75,6 +75,10 @@ https://github.com/git-for-windows/git/releases/latest
 
 >***git branch new_things***
 
+### **Посмотреть разницу разницу между версиями**
+
+>***git diff***
+
 ### **Слияние веток**
 
 >***sudo git merge new_things***
