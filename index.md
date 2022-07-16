@@ -96,3 +96,7 @@ https://github.com/git-for-windows/git/releases/latest
 ### **Посмотреть ветвление веток после слияния**
 
 >***git log --graph -a***
+
+### ***Откат измененного файла***
+
+>***git restore hello.md***
