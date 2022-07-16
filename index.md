@@ -46,7 +46,11 @@ https://github.com/git-for-windows/git/releases/latest
 
 Если нам нужно добавить все, что находится в директории, мы можем использовать
 
->***git add -A***
+>***git add .***
+
+Или так
+
+>***git add --all***
 
 ## **Фиксация изменений**
 
