@@ -68,3 +68,13 @@ https://github.com/git-for-windows/git/releases/latest
 Ну и если нужно переделать commit message и внести туда новый комментарий, написать следующую конструкцию:
 
 >***git commit --amend -m 'Новый комментарий'***
+
+# Создание новой ветким
+
+Создадим новую ветку с именем new_things
+
+>***git branch new_things***
+
+### **Сменить ветку на new_things**
+
+>***git chechout new_things***
