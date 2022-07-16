@@ -78,3 +78,9 @@ https://github.com/git-for-windows/git/releases/latest
 ### **Сменить ветку на new_things**
 
 >***git chechout new_things***
+
+## Удаление веток 
+
+Ветку можно удалить если она не нужна
+
+>***git branch -d имяветки***
