@@ -84,3 +84,15 @@ https://github.com/git-for-windows/git/releases/latest
 Ветку можно удалить если она не нужна
 
 >***git branch -d имяветки***
+
+### **Посмотреть разницу разницу между версиями**
+
+>***git diff***
+
+### **Слияние веток**
+
+>***sudo git merge new_things***
+
+### **Посмотреть ветвление веток после слияния**
+
+>***git log --graph -a***
