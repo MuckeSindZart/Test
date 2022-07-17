@@ -100,3 +100,11 @@ https://github.com/git-for-windows/git/releases/latest
 ### ***Откат измененного файла***
 
 >***git restore hello.md***
+
+## ***Удаленный репозиторий***
+
+>***git clone***
+
+>***git pull***
+
+>***git push***
